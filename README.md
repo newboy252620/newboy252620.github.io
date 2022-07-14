@@ -2,3 +2,473 @@
 <html>
 <head>欢迎来到我的世界</head>
 </html>
+<HTML><HEAD><TITLE>黄志漾 学生-广东工业大学管理学院</TITLE><META Name="keywords" Content="广东工业大学,管理学院,黄志漾,简介" />
+<META Name="description" Content="性 别：      男        学 位：      男        职 称：      学生        职 务：      管理学院学生        电 话：    15626443364           E-MAIL      2425066747@qq.com  研究方..." />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
+
+<script type="text/javascript" src="../../js/swfobject.js"></script>
+<script type="text/javascript" src="../../js/js_img.js"></script>
+<LINK rel="stylesheet" type="text/css" href="../../style/top_bottom.css">
+<LINK rel="stylesheet" type="text/css" href="../../style/teacher_detail_before.css">
+<LINK rel="stylesheet" type="text/css" href="../../style/moban-3.css">
+
+
+
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c78475c53575742000000034250 -->
+<link rel="stylesheet" type="text/css" href="../../jianli.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1184,'/jianli.jsp',1537,1227617505)</script>
+</HEAD>
+<BODY>     
+     
+     
+     
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><br>     
+     
+<SCRIPT language="JavaScript">    
+ 
+self.onError=null;     
+lastScrollXu0=0;lastScrollYu0=0;NS=(document.layeru0)?1:0;IE=(document.all)?1:0;FF=(document.getBoxObjectFor)?1:0;     
+lastScrollX2u0=0;lastScrollY2u0=0;NS=(document.layer2u0)?1:0;IE=(document.all)?1:0;FF=(document.getBoxObjectFor)?1:0;  
+function moveu0()     
+{
+try{    
+
+diffYu0=(document.documentElement && document.documentElement.scrollTop)?document.documentElement.scrollTop:document.body.scrollTop;
+diffXu0=(document.documentElement&&document.documentElement.scrollLeft)?document.documentElement.scrollLeft:document.body.scrollLeft;  
+if(diffYu0!=lastScrollYu0)
+{
+    percent =.1*(diffYu0-lastScrollYu0);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent=Math.floor(percent);   
+        
+    document.getElementById("layeru0").style.top=parseInt(document.getElementById("layeru0").style.top)+percent+"px";
+  
+    lastScrollYu0=lastScrollYu0+percent;
+}     
+ 
+if(diffXu0!=lastScrollXu0)
+{
+    percent=.1*(diffXu0-lastScrollXu0);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent = Math.floor(percent);     
+   
+    document.getElementById("layeru0").style.left+=percent;
+    lastScrollXu0=lastScrollXu0+percent;
+}
+}catch(e)
+{}
+}     
+ 
+ action =window.setInterval('moveu0()',1);   
+function move2u0()     
+{  
+try{   
+    diffY2u0=(document.documentElement && document.documentElement.scrollTop)?document.documentElement.scrollTop:document.body.scrollTop;
+    diffX2u0=(document.documentElement&&document.documentElement.scrollLeft)?document.documentElement.scrollLeft:document.body.scrollLeft;
+    
+if(diffY2u0!=lastScrollY2u0)
+{
+    percent =.1*(diffY2u0-lastScrollY2u0);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent=Math.floor(percent);     
+    document.getElementById("layer2u0").style.top = parseInt(document.getElementById("layer2u0").style.top)+percent+"px";
+    
+    lastScrollY2u0=lastScrollY2u0+percent;
+}  
+
+if(diffX2u0!=lastScrollX2u0)
+{
+    percent=.1*(diffX2u0-lastScrollX2u0);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent = Math.floor(percent);     
+  
+        document.getElementById("layer2u0").style.right+=percent;
+     lastScrollX2u0=lastScrollX2u0+percent;
+}
+}catch(e){}
+}  
+
+    action =window.setInterval('move2u0()',1);  
+    
+    </SCRIPT>     
+     
+<SCRIPT language="JavaScript">     
+    function imageCloseu0(id,id2)     
+    {     
+        document.getElementById(id).style.display = 'none';  
+          
+        document.getElementById(id2).style.display = 'none';  
+             
+    }     
+</SCRIPT>     
+  
+<DIV id="layeru0" style="Z-INDEX:2;left:10px;POSITION:absolute; TOP:250px">    
+    <table border="0" cellpadding="0" cellspacing="0">     
+<tr>  
+        <td>     
+            </td></tr>     
+</table>     
+</div>  
+<DIV id="layer2u0" style="Z-INDEX:2;right:10px;POSITION:absolute; TOP:250px">     
+    <table border="0" cellpadding="0" cellspacing="0">     
+        <tr>  
+        <td>     
+            </td></tr>     
+       </table>     
+</div>   
+<DIV id="box">
+<DIV id="top">
+<DIV id="top_logo"><A id="logo" href="../../index.htm"></A>
+<DIV class="daytime" style="top: 0px"></DIV></DIV>
+<DIV id="top_flash">
+<DIV id="focus"><!--#endobject--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:970px;
+    height:225px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="../../images/3.jpg" border="0" width="970" height="225" /><img src="../../images/2.jpg" border="0" width="970" height="225" /><img src="../../images/1.jpg" border="0" width="970" height="225" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT></DIV></DIV>
+<DIV id="top_nav">
+<DIV id="top_nav_links">
+<UL>    <li><a href="../../index.htm" title="首页">首页</a></li>
+    <li><a href="../../xygk/xyjj.htm" title="学院概况">学院概况</a></li>
+    <li><a href="../../szdw/gk.htm" title="师资队伍">师资队伍</a></li>
+    <li><a href="../../zxgz/gs.htm" title="本科教学">本科教学</a></li>
+    <li><a href="../../yjsjy/zsjz.htm" title="研究生教育">研究生教育</a></li>
+    <li><a href="../../kxyj/gs.htm" title="科学研究">科学研究</a></li>
+    <li><a href="../../jszp/jszp.htm" title="教师招聘">教师招聘</a></li>
+    <li><a href="../../dwjl/dwjlgk.htm" title="对外交流">对外交流</a></li>
+    <li><a href="../../xsgz/xshd.htm" title="学生工作">学生工作</a></li>
+    <li><a href="../../xyjy/xyfc.htm" title="校友家园">校友家园</a></li>
+</UL></DIV></DIV>
+<TABLE height="34" cellspacing="0" cellpadding="0" width="970" align="center" border="0">
+<TBODY>
+<TR>
+<TD width="27" align="left" style="background: url(../../images/index_05_1.gif) no-repeat 0px 0px"></TD>
+<TD width="458" align="left" style="background: url(../../images/index_07.gif) 0px 0px;padding-left: 30px"><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar70701EnDateString;
+
+var c_Calendar70701WeekDayString;
+
+//阴历
+var c_Calendar70701CnDateString;
+//节气
+var c_Calendar70701JQString;
+//年
+var c_Calendar70701YearString;
+//月
+var c_Calendar70701MonthString;
+//日
+var c_Calendar70701DayString;
+//周
+var c_Calendar70701WeekString;
+//显示
+var c_Calendar70701ShowString;
+function RunGLNL70701()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar70701CnDateString=sc.getCnDateString();
+    c_Calendar70701WeekDayString=sc.getCalendarWeekString();
+    c_Calendar70701JQString=sc.getJQString();
+    c_Calendar70701EnDateString=sc.getEnDateString();
+    c_Calendar70701YearString=sc.getYearString();
+    c_Calendar70701MonthString=sc.getMonthString();
+    c_Calendar70701DayString=sc.getDayString();
+    c_Calendar70701WeekString=sc.getWeekString();
+    c_Calendar70701ShowString= "";
+}
+RunGLNL70701();
+      
+c_Calendar70701ShowString+=c_Calendar70701EnDateString; 
+c_Calendar70701ShowString+="&nbsp;&nbsp;"+c_Calendar70701WeekDayString; 
+c_Calendar70701ShowString+="&nbsp;&nbsp;"+c_Calendar70701CnDateString;
+
+
+</script>
+<div id="c_lunar70701" class="fontstyle70701"></div>
+<script>
+	document.getElementById("c_lunar70701").innerHTML = c_Calendar70701ShowString;
+</script>
+</TD>
+<TD width="458" align="right" style="background: url(../../images/index_07.gif) 0px 0px;padding-right: 30px"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode275070').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey275070").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey275070").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey275070").value = base64.encode(document.getElementById("lucenenewssearchkey275070").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode275070"));
+        return true;
+    } 
+</script>
+<form action="../../ssjg.jsp?wbtreeid=1184" method="post" id="au4a" name="au4a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey275070" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype275070" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope275070" name="searchScope" value="0">
+ <div style="padding:3px;margin:0px;display:inline;font-family:宋体;font-size:12px;">
+ 请输入搜索信息：<input name="showkeycode" id="showkeycode275070">
+ <input type="image" src="/system/resource/images/research/seach22.gif" align="absmiddle" style="cursor: hand">
+ </div>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</TD>
+<TD width="29" align="right" style="background: url(../../images/index_08_1.gif) no-repeat 0px 0px"></TD></TR></TBODY></TABLE></DIV>
+<DIV id="moban_main">
+<DIV id="moban_main_3"><!--left开始-->
+<DIV id="moban_left">
+<DIV id="moban_left_title"><!--左边上方标题-->
+<H1>教师简历</H1></DIV>
+<DIV id="moban_left_content_3">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+    <h1 align="center">罗美娟 讲师</h1>
+    <div align="center">2016年04月06日 21:50&nbsp;&nbsp;点击：[<script>_showDynClicks("wbnews", 1227617505, 1537)</script>] </div>
+    <hr>
+    <div id="vsb_content"><div class="v_news_content">
+<style>@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋";} @font-face{ font-family:"Arial";} @list l0:level1{ mso-level-number-format:decimal; mso-level-suffix:tab; mso-level-text:"（%1）"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:21.0000pt;text-indent:-21.0000pt;font-family:宋体;} @list l0:level2{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%2)"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:42.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level3{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%3."; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:63.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level4{ mso-level-number-format:decimal; mso-level-suffix:tab; mso-level-text:"%4."; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:84.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level5{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%5)"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:105.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level6{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%6."; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:126.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level7{ mso-level-number-format:decimal; mso-level-suffix:tab; mso-level-text:"%7."; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:147.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level8{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%8)"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:168.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l0:level9{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%9."; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:189.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level1{ mso-level-number-format:decimal; mso-level-suffix:none; mso-level-text:"%1、"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0.0000pt; text-indent:0.0000pt; font-family:'Times New Roman';} @list l1:level2{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%2)"; mso-level-tab-stop:42.0000pt; mso-level-number-position:left; margin-left:42.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level3{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%3."; mso-level-tab-stop:63.0000pt; mso-level-number-position:left; margin-left:63.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level4{ mso-level-number-format:decimal; mso-level-suffix:tab; mso-level-text:"%4."; mso-level-tab-stop:84.0000pt; mso-level-number-position:left; margin-left:84.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level5{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%5)"; mso-level-tab-stop:105.0000pt; mso-level-number-position:left; margin-left:105.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level6{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%6."; mso-level-tab-stop:126.0000pt; mso-level-number-position:left; margin-left:126.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level7{ mso-level-number-format:decimal; mso-level-suffix:tab; mso-level-text:"%7."; mso-level-tab-stop:147.0000pt; mso-level-number-position:left; margin-left:147.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level8{ mso-level-number-format:alpha-lower; mso-level-suffix:tab; mso-level-text:"%8)"; mso-level-tab-stop:168.0000pt; mso-level-number-position:left; margin-left:168.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} @list l1:level9{ mso-level-number-format:lower-roman; mso-level-suffix:tab; mso-level-text:"%9."; mso-level-tab-stop:189.0000pt; mso-level-number-position:left; margin-left:189.0000pt;text-indent:-21.0000pt;font-family:'Times New Roman';} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h3{ mso-style-name:"标题 3"; mso-style-noshow:yes; mso-style-next:正文; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; mso-outline-level:3; font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-weight:bold; font-size:13.5000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(51,51,51);} span.16{ font-family:'Times New Roman'; color:#000000; font-size:10.5000pt;} span.17{ font-family:'Times New Roman'; font-weight:bold;} span.18{ font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:9.0000pt; mso-font-kerning:1.0000pt;} span.19{ font-family:仿宋; color:#000000; font-size:14.0000pt;} p.20{ mso-style-name:"_Style 13"; mso-style-next:正文; margin:0pt; margin-bottom:.0001pt; border-bottom:1.0000pt solid #000000; mso-border-bottom-alt:0.7500pt solid #000000; padding:0pt 0pt 1pt 0pt ; mso-pagination:none; text-align:center; font-family:Arial; mso-fareast-font-family:宋体; mso-hansi-font-family:Calibri; mso-bidi-font-family:'Times New Roman'; display:none; mso-hide:all; font-size:8.0000pt; mso-font-kerning:1.0000pt;} p.21{ mso-style-name:"_Style 8"; mso-style-next:正文; margin:0pt; margin-bottom:.0001pt; border-bottom:1.0000pt solid #000000; mso-border-bottom-alt:0.7500pt solid #000000; padding:0pt 0pt 1pt 0pt ; mso-pagination:none; text-align:center; font-family:Arial; mso-fareast-font-family:宋体; mso-hansi-font-family:Calibri; mso-bidi-font-family:'Times New Roman'; display:none; mso-hide:all; font-size:8.0000pt; mso-font-kerning:1.0000pt;} p.p{ mso-style-name:"普通\(网站\)"; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} p.23{ mso-style-name:"List Paragraph"; margin:0pt; margin-bottom:.0001pt; text-indent:21.0000pt; mso-char-indent-count:2.0000; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} p.24{ mso-style-name:"_Style 9"; mso-style-next:正文; margin:0pt; margin-bottom:.0001pt; border-top:1.0000pt solid #000000; mso-border-top-alt:0.7500pt solid #000000; padding:1pt 0pt 0pt 0pt ; mso-pagination:none; text-align:center; font-family:Arial; mso-fareast-font-family:宋体; mso-hansi-font-family:Calibri; mso-bidi-font-family:'Times New Roman'; display:none; mso-hide:all; font-size:8.0000pt; mso-font-kerning:1.0000pt;} p.MsoAcetate{ mso-style-name:批注框文本; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.26{ mso-style-name:"_Style 14"; mso-style-next:正文; margin:0pt; margin-bottom:.0001pt; border-top:1.0000pt solid #000000; mso-border-top-alt:0.7500pt solid #000000; padding:1pt 0pt 0pt 0pt ; mso-pagination:none; text-align:center; font-family:Arial; mso-fareast-font-family:宋体; mso-hansi-font-family:Calibri; mso-bidi-font-family:'Times New Roman'; display:none; mso-hide:all; font-size:8.0000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt;} div.Section0{page:Section0;}</style>&nbsp;
+<table border="0" cellspacing="2" style="text-align: center; width: 427.55pt; mso-cellspacing: 1.5000pt; mso-table-layout-alt: fixed; mso-padding-alt: 0.7500pt 0.7500pt 0.7500pt 0.7500pt">
+ <tbody>
+  <tr class="firstRow" style="height: 18pt">
+   <td valign="bottom" rowspan="6" width="182" style="border-bottom: medium none; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 137.1pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><span style="font-family: Calibri; font-size: 10.5pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-fareast-font-family: 宋体">
+      <img src="/__local/7/74/72/291877E44430C482FDE42FEF789_D143B678_1763E.png" width="150" height="159" vsbhref="vurl" vurl="/_vsl/77472291877E44430C482FDE42FEF789/D143B678/1763E" vheight="159" vwidth="150" orisrc="/__local/7/74/72/291877E44430C482FDE42FEF789_D143B678_1763E.png" class="img_vsb_content"></span><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt"> </span></strong></p></td>
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">性 别：</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt">女</span></p></td>
+  </tr>
+  <tr style="height: 4.5pt">
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">学 位：</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">博士</span></p></td>
+  </tr>
+  <tr style="height: 18pt">
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">职 称：</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">讲师</span></p></td>
+  </tr>
+  <tr style="height: 18pt">
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">职 务：</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">企业管理系副主任、旅游管理专业主任</span></p></td>
+  </tr>
+  <tr style="height: 18pt">
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">电 话：</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; background: rgb(239,247,249); border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; background: rgb(239,247,249); mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;</span></p></td>
+  </tr>
+  <tr style="height: 18pt">
+   <td valign="center" width="92" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 69.3pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: center; line-height: 18pt; mso-pagination: widow-orphan"><strong><span style="font-family: 宋体; font-size: 9.5pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">E-MAIL</span></strong></p></td>
+   <td valign="center" width="294" style="border-bottom: rgb(239,239,239) 1pt solid; border-left: rgb(239,239,239) 1pt solid; padding-bottom: 0.75pt; padding-left: 0.75pt; width: 221.15pt; padding-right: 0.75pt; border-top: rgb(239,239,239) 1pt solid; border-right: rgb(239,239,239) 1pt solid; padding-top: 0.75pt; mso-border-bottom-alt: 0.7500pt solid rgb(239,239,239); mso-border-left-alt: 0.7500pt solid rgb(239,239,239); mso-border-right-alt: 0.7500pt solid rgb(239,239,239); mso-border-top-alt: 0.7500pt solid rgb(239,239,239)"><p style="text-align: left; line-height: 18pt; mso-pagination: widow-orphan"><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt">&nbsp;</span><span style="font-family: 宋体; font-size: 10.5pt; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"> &nbsp;qgndrsw0526@126.com</span></p></td>
+  </tr>
+ </tbody>
+</table>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">研究方向</span></span></strong></h3>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">旅游电子商务、创业管理</span></span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">个人简介</span></span></strong></h3>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">2009年至今在广东工业大学管理学院从事旅游管理专业教学、科研与专业建设工作。现任广东工业大学管理学院企业管理系副主任。主要研究领域为旅游电子商务、创业教育。</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">近年来已发表科研论文十余篇，参编教材与著作</span>8部，参与省部级以上项目10余项，主持或参与横向项目10余项。一项科研成果获广东工业大学校级教学改革一等奖，一项联合科研成果获浙江农林大学教学成果二等奖。</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">先后于</span>2015年获得美国百森商学院创业教育师资认证、2016年获得英国国家创新创业教育中心（NCEE）创新创业导师认证、2016年获得加拿大埃里克森国际教练学院创业教练项目认证、2018年参加美国百森商学院ELI Asia项目学习。</span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">教育背景</span></span></strong></h3>
+<p><span style="display: none; font-family: Arial; font-size: 8pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-fareast-font-family: 宋体; mso-hansi-font-family: Calibri; mso-hide: all"><span style="font-family: 宋体">窗体顶端</span></span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">2006年9月-2009年7月 &nbsp;就读于华侨大学旅游学院 获企业管理博士学位</span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><br></span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">2003年9月-2006年7月 &nbsp;就读于云南大学商旅学院 获管理学硕士学位</span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><br></span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">1999年9月-2003年7月 &nbsp;就读于重庆大学数理学院 获理学学士学位</span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">论文与著作</span></span></strong></h3>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（</span>1）罗美娟,莫赞，高扬.基于长尾理论的在线旅游市场发展研究[J].商业研究，2015（6）.</span><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">人民大学复印资料全文转载</span></span></strong><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><br></span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（</span>2）罗美娟，祁明德.基于机制设计理论的旅游网络投诉机制优化研究[J].企业经济，2016（12）.</span><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">人民大学复印资料全文转载</span></span></strong><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><br></span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（</span>3）祁明德，罗美娟.珠三角制造业企业转型升级意愿研究[J].学术论坛，2016（6）.</span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><br></span><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（</span>4）《创业学什么：人生方向设计、思维与方法论》</span><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（获</span>2018年国家出版基金支持）</span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">，主编</span>.国家行政学院出版社.2018.</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（</span>5）《创业如何教：基于体验的五步教学法》，主编.机械工业出版社</span><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">（高等院校创新创业教育规划教材）</span></span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)">.2018.</span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">纵向和横向科研项目</span></span></strong></h3>
+<p><span style="font-family: Calibri; font-size: 10.5pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-fareast-font-family: 宋体"></span></p>
+<p style="text-align: left; line-height: 23pt; mso-pagination: widow-orphan; mso-line-height-rule: exactly; mso-list: l1 level1 lfo1"><span style="font-family: 宋体; background: rgb(255,255,255); color: #000000; font-size: 12pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-shading: rgb(255,255,255)"><span style="mso-list: Ignore">1、</span></span><strong><span style="font-family: 宋体; background: rgb(255,255,255); color: #000000; font-size: 12pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">纵向课题</span></span></strong></p>
+<p style="line-height: 150%; text-indent: 19.55pt; margin-left: 0pt; mso-list: l0 level1 lfo2; mso-char-indent-count: 1.6300"><span style="font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'"><span style="mso-list: Ignore">（1） </span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">参与（第二参与人）国家自然科学基金项目《</span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">文化转向下的城市更新模式、机制与影响研究</span>——以广州为例</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">》。</span></span></p>
+<p style="line-height: 150%; text-indent: 19.55pt; margin-left: 0pt; mso-list: l0 level1 lfo2; mso-char-indent-count: 1.6300"><span style="font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'"><span style="mso-list: Ignore">（2） </span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">参与（第二参与人）教育部人文社科规划项目《</span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">城市更新背景下文化旅游的发展模式、机制与策略研究</span>——以广州为例</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">》。</span></span></p>
+<p style="line-height: 150%; text-indent: 19.55pt; margin-left: 0pt; mso-list: l0 level1 lfo2; mso-char-indent-count: 1.6300"><span style="font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'"><span style="mso-list: Ignore">（3） </span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">主持广东工业大学博士启动基金项目《基于工作倦怠的旅游从业人员职业健康安全研究》（</span>2009-2011），已结题。</span></p>
+<p style="line-height: 150%; text-indent: 19.55pt; margin-left: 0pt; mso-list: l0 level1 lfo2; mso-char-indent-count: 1.6300"><span style="font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'"><span style="mso-list: Ignore">（4） </span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">主持教育部旅游管理类专业教学指导委员全国旅游管理类教育科研</span>“十二五”规划课题《基于实习社会化的旅游管理专业实习基地建设改革与实践》，项目编号</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">GLJKT201102001</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">，已结题。</span></span></p>
+<p style="line-height: 150%; text-indent: 19.55pt; margin-left: 0pt; mso-list: l0 level1 lfo2; mso-char-indent-count: 1.6300"><span style="font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'"><span style="mso-list: Ignore">（5） </span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">参与（第一参与人）浙江省社会科学界联合会社科普及课题《消费中的心理学趣谈》（</span>2007-2010），项目编号07-38，已结题。</span></p>
+<p style="text-align: left; line-height: 23pt; mso-pagination: widow-orphan; mso-line-height-rule: exactly"><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255); mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri"></span></p>
+<p style="text-align: left; line-height: 23pt; mso-pagination: widow-orphan; mso-line-height-rule: exactly; mso-list: l1 level1 lfo1"><span style="font-family: 'Times New Roman'; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-shading: rgb(255,255,255)"><span style="mso-list: Ignore">2、</span></span><strong><span style="font-family: 'Times New Roman'; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">横向课题</span></span></strong></p>
+<p style="line-height: 150%; text-indent: 24pt"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">（</span>1）《南雄市旅游业“十三五”发展规划》，2015-09到2016-02，南雄市旅游局</span></p>
+<p style="line-height: 150%; text-indent: 24pt"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">（</span>2）《广州市服务外包公共服务平台》，2015-05到2017-05-11，广州市外经贸局</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp; &nbsp;<span style="font-family: 宋体">（</span>3）《南雄市“十三五”产业发展规划》，2015-07到2016-02，南雄市发改局</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp; &nbsp;<span style="font-family: 宋体">（</span>4）《广州市电子商务人才培训公共服务平台》，2014-07到2016-12，广州市外经贸局、财政局</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp; &nbsp;<span style="font-family: 宋体">（</span>5）《中央补助资金电子商务公共服务平台建设专项项目中期及后期验收结案服务咨询》，2015-06到2015-12，广东灵感摄影有限公司</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp; &nbsp;<span style="font-family: 宋体">（</span>6）</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">参与（第二参与人）广东省国资委课题《广东省属企业社会责任：现状与政策建议》（</span>2012.6-2012.12），已结题。</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp; &nbsp;<span style="font-family: 宋体">（</span>7）</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">参与（第二参与人）《</span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">广东省广业资产经营有限公司《企业社会责任报告》（</span>2011）</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">》，已结题。</span></span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">获奖情况</span></span></strong></h3>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2019年度优秀共产党员</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2017年度优秀共产党员</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2015年度优秀共产党员</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2013年度优秀共产党员</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2011年度优秀共产党员</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2017-2018</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">学年，广东工业大学教学优秀二等奖</span></span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">201</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">6</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">-201</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">7学年，广东工业大学教学优秀二等奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2015-2016学年，广东工业大学教学优秀一等奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2013-2014学年，广东工业大学教学优秀一等奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2012-2013学年，广东工业大学教学优秀一等奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2009-2010学年，广东工业大学教学优秀一等奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2017年度</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">，管理学院</span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">“比创争活动标兵”</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2015年度</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">，管理学院</span></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">“比创争活动优胜者”</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2013年，</span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">广东工业大学第八届校级教学成果</span>“一等奖”</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2010-2019年，连续10年获得管理学院教学质量优秀奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'">2010-2018年，连续9个年度获得管理学院教学管理先进奖</span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">多次获得电子商务三创赛、全国旅游服务大赛等大赛优秀指导老师奖</span></span></p>
+<p style="line-height: 150%"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'"><span style="font-family: 宋体">多次获得广东工业大学毕业论文优秀指导教师称号</span></span></p>
+<h3 style="border-bottom: rgb(0,128,192) 2.25pt solid; padding-bottom: 0pt; margin-top: 18.1pt; padding-left: 0pt; padding-right: 0pt; margin-left: -3pt; padding-top: 0pt; mso-pagination: widow-orphan; mso-border-bottom-alt: 2.2500pt solid rgb(0,128,192)"><strong><span style="font-family: 宋体; background: rgb(255,255,255); font-size: 15pt; font-weight: bold; mso-font-kerning: 0.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255)"><span style="font-family: 宋体">教学情况</span></span></strong></h3>
+<p><span style="font-family: Calibri; font-size: 10.5pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-fareast-font-family: 宋体"></span></p>
+<p style="line-height: 150%"><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255); mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri"><span style="font-family: 宋体">本科生课程：</span></span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255); mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri"><span style="font-family: 宋体">《创业管理》、《领导学》、《互联网创新思维》、《创业思维与行动》</span></span></p>
+<p style="line-height: 150%"><strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; font-weight: bold; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255); mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri"><span style="font-family: 宋体">研究生课程：</span></span></strong><span style="line-height: 150%; font-family: 宋体; background: rgb(255,255,255); font-size: 12pt; mso-font-kerning: 1.0000pt; mso-bidi-font-family: 'Times New Roman'; mso-spacerun: 'yes'; mso-shading: rgb(255,255,255); mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri"><span style="font-family: 宋体">《创业管理》（</span>MBA<span style="font-family: 宋体">）、《互联网创新思维》（</span><span style="font-family: Calibri">MBA</span><span style="font-family: 宋体">与</span><span style="font-family: Calibri">MPAcc</span><span style="font-family: 宋体">）</span></span></p>
+</div></div><div id="div_vote_id"></div>
+        <p align="right">
+        上一条：<a href="1539.htm">周杨 副教授</a>
+        下一条：<a href="1536.htm">张春慧    副教授</a>
+    </p>
+    <p align="right">【<a href="javascript:window.opener=null;window.open('','_self');window.close();">关闭</a>】</p>
+</div>
+</form>
+
+</DIV>
+<DIV id="buttom_2"><IMG src="../../images/pic/buttom.gif"></DIV></DIV><!--left结束-->
+<DIV id="moban_main_bottom"></DIV></DIV></DIV><!--end of moban_main-->
+<DIV id="bottom">
+<DIV>
+<P>CopyRight ? 2009 School of Management,GDUT. 广东工业大学 管理学院</P>
+<P>联系我们 | 广东工业大学 电话：86-020-87083017 E-mail: glxy@gdut.edu.cn</P>
+<P>地址：中国 广州 天河区 迎龙路 161号 邮编：510520</P></DIV></DIV>
+<DIV></DIV><!--end of box--></DIV>
+
+</BODY></HTML>
