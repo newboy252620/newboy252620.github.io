@@ -25,11 +25,4 @@
 <script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
 <script type="text/javascript" src="/system/resource/js/counter.js"></script>
 <script type="text/javascript">_jsq_(1184,'/jianli.jsp',1537,1227617505)</script>
-</HEAD>
-<BODY>     
-     
-     
-     
-
-
-</BODY></HTML>
+</HEAD></HTML>
