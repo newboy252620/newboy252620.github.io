@@ -1,60 +1,129 @@
-<HTML>
-  <head>欢迎来到我的世界</head>
- <html><head>黄志漾 广东工业大学管理学院学生 </head>
-<meta name="keywords"content="广东工业大学，管理学院，黄志漾，简介"/>
-<meta name="description"content="性别：男 学位：本科 职业：学生"/>
-<meta content="txet/html;charset=utf-8>
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>黄志漾个人简历网站</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
 
+        .ward {
+            width: 1000px;
+            height: 700px;
+            margin: 0 auto;
+            padding: 5PX;
+            background-color: #eeedeb;
+        }
 
-<BODY>       
-  
-<DIV id="layeru0" style="Z-INDEX:2;left:10px;POSITION:absolute; TOP:250px">    
-    <table border="0" cellpadding="0" cellspacing="0">    
-                                                     <tr></tr>                                                   
-<tr>  兴趣
-        <td>   长项 
-            </td></tr>     
-</table>     
-</div>  
-<DIV id="layer2u0" style="Z-INDEX:2;right:10px;POSITION:absolute; TOP:250px">     
-    <table border="0" cellpadding="0" cellspacing="0">     
-                                                     <tr></tr>
-                                                     <tr> 我喜欢的歌 
-        <td>  我的照片   
-            </td></tr>     
-       </table>     
-</div>   
-<DIV id="box">
-<DIV id="top">
-<DIV id="top_logo"><A id="logo" href="../../index.htm"></A>
-<DIV class="daytime" style="top: 0px"></DIV></DIV>
-<DIV id="top_flash">
+        .top {}
 
+        h3 {
+            background-color: #FFF;
+            color: #0d82c1;
+            padding-left: 15px;
+        }
 
-<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="../../images/3.jpg" border="0" width="970" height="225" /><img src="../../images/2.jpg" border="0" width="970" height="225" /><img src="../../images/1.jpg" border="0" width="970" height="225" /></div></td></tr></table></DIV></DIV>
-<DIV id="top_nav">
-<DIV id="top_nav_links">
-<UL>    <li><a href="../../index.htm" title="首页">首页</a></li>
+        h2 {
+            color: #0d82c1;
+            text-align: center;
+        }
 
+        .container {
+            background-color: #fff;
+            margin-top: 10px;
+            padding-top: 20px;
+            height: 660px;
+        }
 
-</TD>
-<TD width="29" align="right" style="background: url(../../images/index_08_1.gif) no-repeat 0px 0px"></TD></TR></TBODY></TABLE></DIV>
-<DIV id="moban_main">
-<DIV id="moban_main_3"><!--left开始-->
-<DIV id="moban_left">
-<DIV id="moban_left_title"><!--左边上方标题-->
+        .top {
+            width: 100%;
+            height: 300px;
 
-</DIV>
-<DIV id="buttom_2"><IMG src="../../images/pic/buttom.gif"></DIV></DIV><!--left结束-->
-<DIV id="moban_main_bottom"></DIV></DIV></DIV><!--end of moban_main-->
-<DIV id="bottom">
-<DIV>
-<P> 广东工业大学 管理学院</P>
-<P>联系我 | 电话：15626443364</P>
-<P>地址：中国 广州 天河区 迎龙路 161号 邮编：510520</P></DIV></DIV>
-<DIV></DIV><!--end of box--></DIV>
+        }
 
-</BODY>
+        .dest {
+            margin-top: 8px;
+            text-align: center;
+            font-size: 18px;
+        }
 
-</html> 
+        .t1 {
+            width: 600px;
+            background-color: rgb(132, 143, 240);
+            margin: 0 auto;
+        }
+
+        .t1 tr td:first-child {
+            width: 110px;
+        }
+
+        .kg {
+            display: inline-block;
+            width: 2em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="ward">
+        <h3>个人简历</h3>
+        <div class="container">
+            <!-- 头部信息 -->
+            <div class="top">
+                <h2>黄志漾</h2>
+                <div class="dest">
+                    广东工业大学
+                </div>
+                <hr>
+                <table class="t1">
+                    <tr>
+                        <td>毕业学校：</td>
+                        <td>广东工业大学</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>电<span class="kg"></span>话：</td>
+                        <td>13242721581</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>专<span class="kg"></span>业：</td>
+                        <td>人力资源管理</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>微<span class="kg"></span>信：</td>
+                        <td>13242721581</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>籍<span class="kg"></span>贯：</td>
+                        <td>广东汕尾</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>邮<span class="kg"></span>箱：</td>
+                        <td>15626443364@163.com</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>现居住地：</td>
+                        <td>广州白云</td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="center">
+
+                <a href="http://www.baidu.com" style="color:#000; font-weight: 700;">跳转到百度</a>
+            </div>
+            <div class="bottom"></div>
+        </div>
+    </div>
+</body>
+
+</html>
