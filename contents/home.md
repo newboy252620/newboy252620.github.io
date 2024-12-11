@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/newboy252620)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+乐观随和，善于与人沟通协作，有耐心有责任心，目标感强，具备强大的抗压能力。\
+
 
 #### Email
-sli[at]cumt.edu.cn
+2425066747@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+广东工业大学,人力资源管理/全日制,2019.09--2023.07
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+PR、PS、ai与 AE 具有扎实的基本功,能独立完成产品外包装设计、图片之间的无衔接以及高低频修图能熱练使用数据透视表.viookup等 excel 功能、SPSS 数据分析。
 

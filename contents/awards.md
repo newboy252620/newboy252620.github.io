@@ -1,13 +1,8 @@
-- National Scholarship of Graduate Student, 2024.
+- 辅导员助理 /军训积极分子/院运会第四/管院辩论赛第一  ——2019.09-12.
 
-- First-prize Scholarship of CUMT, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+-书画社优秀干部、三等奖  ——2021.07
 
-- Freshman Scholarship of CUMT, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+-运营设计论文  ——2022.04-20
+在数据的收集，不仅现场调研了用户群体分布，可以使用多种办公软件分析整理数据，常见的 word 以及 excel， 还有 cad 以及 visio 等

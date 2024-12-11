@@ -1,12 +1,18 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>佛山三和不锈钢</strong>,  <strong>人力资源管理</strong>\
+全流程招聘:根据人力资源规划制定 shopee、独立站、亚马逊运营、外贸业务员、跟单员及客服等的人才画像，发布在 boss、51 等各平台,进行人才招聘，筛选候选人简历预约面试，整理归档候选人资料，跟进后续面试进度，每日平均筛选200+简历，每周约 30+人。shopee、亚马逊、独立站、外贸业务员、跟单、普工、美工、新媒体运营等岗位根据业务需求确定的编制数量完成招聘目标。\
+员工访谈:做好试用期员工、转正员工、离职员工的访谈，根据访谈结果、离职数据等分析。输出相关结论，完善和优化招聘及反馈业务提高招聘的转化率。\
+渠道运营:负责常规招聘渠道开通与维护\
+调岗跟进:了解员工与岗位的匹配度，实现合适的人做合适的工作。\
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>广东世创金属科技股份有限公司</strong>, <strong>人力资源管理</strong>\
+群体细分】本人任职时间1年，主要负责公司300+人事管理工作
+【社招工作】\
+全流程招聘:负责公司大职能团队、互联网系统测试团队等全流程招聘工作，岗位包含财务相关、测试岗位等人才引进，入职至今仅一年人才引进超 120+，月均入职 10+，招聘完成率 95%以上;\
+人才 mapping:快速积极响应业务需求，完善人才画像，进行人才 mapping，同时完善内部与外部人才地图，提高和优化招聘效率。\
+【校招工作】\
+前期院校盘点、院校专业情况、学生人数，整理及确认人才地图。准备相应的物料与器材。2023年3月23 日--2023 年3月 25 日在桂林理工大学设下招聘定点。共招聘电气工程师4名，机械工程师4名等，目标完成率 100%。\
+【其他工作】\
+组织策划团队活动，包括团队赋能、团队团建等:
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
