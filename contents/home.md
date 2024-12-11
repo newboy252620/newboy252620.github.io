@@ -1,6 +1,6 @@
 
 
-[![newboy252620](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/newboy252620)
+[![newboy252620](https://img.shields.io/badge/newboy252620-github-blue?logo=github)](https://github.com/newboy252620)
 
 乐观随和，善于与人沟通协作，有耐心有责任心，目标感强，具备强大的抗压能力。\
 
